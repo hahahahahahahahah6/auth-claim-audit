@@ -1,0 +1,3 @@
+include LICENSE README.md .gitignore
+recursive-include tests *.py *.md
+include tests/fixtures/bad/.env
